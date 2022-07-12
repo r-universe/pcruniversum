@@ -18,13 +18,3 @@
 	url = https://github.com/pcruniversum/pcredux
 	shallow = true
 	registered = true
-[submodule "RDML"]
-	path = RDML
-	url = https://github.com/pcruniversum/rdml
-	shallow = true
-	registered = true
-[submodule "shinyMolBio"]
-	path = shinyMolBio
-	url = https://github.com/pcruniversum/shinymolbio
-	shallow = true
-	registered = true
