@@ -10,5 +10,13 @@
   {
     "package": "PCRedux",
     "oncran": true
+  },
+  {
+    "package": "RDML",
+    "oncran": true
+  },
+  {
+    "package": "shinyMolBio",
+    "oncran": true
   }
 ]
