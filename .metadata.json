@@ -4,10 +4,6 @@
     "oncran": true
   },
   {
-    "package": "MBmca",
-    "oncran": true
-  },
-  {
     "package": "PCRedux",
     "oncran": true
   },

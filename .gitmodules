@@ -8,11 +8,6 @@
 	url = https://github.com/pcruniversum/chippcr
 	shallow = true
 	registered = true
-[submodule "MBmca"]
-	path = MBmca
-	url = https://github.com/pcruniversum/mbmca
-	shallow = true
-	registered = true
 [submodule "PCRedux"]
 	path = PCRedux
 	url = https://github.com/pcruniversum/pcredux
