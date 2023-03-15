@@ -1,14 +1,10 @@
 [
   {
-    "package": "shinyMolBio",
-    "oncran": true
-  },
-  {
-    "package": "RDML",
-    "oncran": true
-  },
-  {
     "package": "chipPCR",
+    "oncran": true
+  },
+  {
+    "package": "MBmca",
     "oncran": true
   },
   {
@@ -16,7 +12,11 @@
     "oncran": true
   },
   {
-    "package": "MBmca",
+    "package": "RDML",
+    "oncran": true
+  },
+  {
+    "package": "shinyMolBio",
     "oncran": true
   }
 ]

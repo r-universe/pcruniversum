@@ -3,19 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "shinyMolBio"]
-	path = shinyMolBio
-	url = https://github.com/pcruniversum/shinymolbio
-	shallow = true
-	registered = true
-[submodule "RDML"]
-	path = RDML
-	url = https://github.com/pcruniversum/rdml
-	shallow = true
-	registered = true
 [submodule "chipPCR"]
 	path = chipPCR
 	url = https://github.com/pcruniversum/chippcr
+	shallow = true
+	registered = true
+[submodule "MBmca"]
+	path = MBmca
+	url = https://github.com/pcruniversum/mbmca
 	shallow = true
 	registered = true
 [submodule "PCRedux"]
@@ -23,8 +18,13 @@
 	url = https://github.com/pcruniversum/pcredux
 	shallow = true
 	registered = true
-[submodule "MBmca"]
-	path = MBmca
-	url = https://github.com/pcruniversum/mbmca
+[submodule "RDML"]
+	path = RDML
+	url = https://github.com/pcruniversum/rdml
+	shallow = true
+	registered = true
+[submodule "shinyMolBio"]
+	path = shinyMolBio
+	url = https://github.com/pcruniversum/shinymolbio
 	shallow = true
 	registered = true
