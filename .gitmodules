@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "chipPCR"]
-	path = chipPCR
-	url = https://github.com/pcruniversum/chippcr
 [submodule "MBmca"]
 	path = MBmca
 	url = https://github.com/pcruniversum/mbmca
@@ -14,6 +11,9 @@
 [submodule "RDML"]
 	path = RDML
 	url = https://github.com/pcruniversum/rdml
+[submodule "chipPCR"]
+	path = chipPCR
+	url = https://github.com/pcruniversum/chippcr
 [submodule "shinyMolBio"]
 	path = shinyMolBio
 	url = https://github.com/pcruniversum/shinymolbio
