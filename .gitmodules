@@ -5,6 +5,9 @@
 [submodule "MBmca"]
 	path = MBmca
 	url = https://github.com/pcruniversum/mbmca
+[submodule "PCRedux"]
+	path = PCRedux
+	url = https://github.com/pcruniversum/pcredux
 [submodule "RDML"]
 	path = RDML
 	url = https://github.com/pcruniversum/rdml
